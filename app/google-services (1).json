@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1048317114752",
+    "project_id": "kreeda-angana",
+    "storage_bucket": "kreeda-angana.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048317114752:android:86cd8425ba6ec0dd846965",
+        "android_client_info": {
+          "package_name": "com.Sachin.kreeda_angana"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcSILrDH0OskBz4AimeJRbMrbhQoO0DYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
