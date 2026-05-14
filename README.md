@@ -24,7 +24,7 @@ To run and build this application from the source code, follow these steps:
 1.  **Clone or Download the Repository**: 
     If you haven't already, clone this repository to your local machine:
     ```bash
-    git clone <YOUR-GITHUB-REPO-URL>
+    git clone https://github.com/sachinkn92/kreeda-ankana
     ```
 2.  **Open in Android Studio**:
     *   Launch Android Studio.
